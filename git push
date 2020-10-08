@@ -1,0 +1,49 @@
+[33mcommit c06a898bc1d31888f73b78ab2198b8414a03a8f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: nesiva <51223161+nesiva@users.noreply.github.com>
+Date:   Thu Oct 8 22:18:39 2020 +0300
+
+    initial
+
+[33mcommit 55dcc55b891563c295ad9aae9efb227bef9f1a98[m
+Author: TheMuellenator <TheMuellenator@users.noreply.github.com>
+Date:   Fri Jan 17 19:28:50 2020 +0000
+
+    Removing android.support dependencies
+    Updating gradle wrapper to 5.4.1-all.zip
+    Updating gradle build to 3.5.3
+
+[33mcommit 129b3b03f4b762d9ed843927dc36170ee11278c2[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Mon Apr 22 09:52:31 2019 +0100
+
+    Update to AndroidX
+
+[33mcommit cd07fab2d5910896686d06c73393c520bd1c424d[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Wed Apr 10 08:55:11 2019 +0100
+
+    Update readme
+
+[33mcommit ffab21662e4ecb0271775dde0f64433b6b673e90[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Mon Apr 8 17:40:21 2019 +0100
+
+    Update Weather model
+
+[33mcommit 6d8624564840ecbddb762cb95a7524d00043149c[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Sat Apr 6 15:39:54 2019 +0100
+
+    Resize Images
+
+[33mcommit eb6c43e8a8dc87e149456e5e7b2f3ded2374c99f[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Sat Apr 6 14:44:13 2019 +0100
+
+    Update Scaffold
+
+[33mcommit 67e480df9b939c1beadf5947937fc84f2f6957c9[m
+Author: Angela <8798027+angelabauer@users.noreply.github.com>
+Date:   Thu Apr 4 11:03:13 2019 +0100
+
+    initial
